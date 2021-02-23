@@ -3,3 +3,5 @@ In this project we used a ESP8266 to control a Robotic Arm through Alexa's voice
 
 # Further Information
 For more information, check out the video below or, if you're a portuguese speaker, you can read the documentation of the project in the 'Documents' folder. Thanks.
+
+[![DOMINÓ ACIONADO PELA ALEXA](https://img.youtube.com/vi/0nziIbb8l3g/0.jpg)](https://www.youtube.com/watch?v=0nziIbb8l3g)

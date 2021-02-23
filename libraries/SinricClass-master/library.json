@@ -1,0 +1,21 @@
+{
+  "name": "SinricClass",
+  "keywords": "ethernet, sinric, alexa, iot",
+  "description": "A client library for Sinric.com",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sivar2311/SinricClass"
+  },
+  "authors":
+  [
+    {
+      "name": "sivar2311",
+      "email": "sivar2311@gmail.com",
+      "maintainer": true
+    }],
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
+

@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For WifiManager
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Sinric	KEYWORD1
+SinricClass	KEYWORD1
+SinricDevice	KEYWORD1
+SinricSwitch	KEYWORD1
+SinricLight	KEYWORD1
+SinricThermostat	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+stop	KEYWORD2
+handle	KEYWORD2
+add	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#	LITERAL1
